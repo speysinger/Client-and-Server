@@ -2,6 +2,7 @@
 *.d
 *.vs
 *.vcxproj*
+*.db
 
 # Compiled Object files
 *.slo
